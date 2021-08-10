@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajansingh2206&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansingh2206&layout=compact)
+![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajansingh2206&show_icons=true&theme=radical) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansingh2206&layout=compact)
 - 🔭 I’m Student
 - 🌱 I’m currently learning machine learning
 - 💬 Ask me about PHP,Java,JavaScript,python
