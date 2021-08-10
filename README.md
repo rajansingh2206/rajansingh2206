@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m Student
 - 🌱 I’m currently learning machine learning
 - 💬 Ask me about PHP,Java,JavaScript,python
-- 📫 How to reach me: pagarprasanna.2001@gmail.com
+- 📫 How to reach me: rajans2206@gmail.com
 
 ## 🛠️ My favorite tools
 
