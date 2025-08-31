@@ -1,13 +1,19 @@
 ![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajansingh2206&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansingh2206&layout=compact)
 
-# 👋 Hi, I'm Rajan Singh
+<h1 align="center" style="font-size:3em;">
+  Rajan Singh
+</h1>
 
-**Software Engineer | Backend & Distributed Systems | Java • Cloud • ServiceNow • Microservices | 2 YOE**
+<h2 align="center">
+  Software Engineer | Backend & Distributed Systems | Java • Cloud • ServiceNow • Microservices | 2 YOE
+</h2>
 
 ---
 
-Software Engineer with 2 years of experience in backend development and enterprise-scale systems at TCS. Delivered workflow automation for Stellantis, impacting operations across 44 European countries. Strong foundation in Data Structures & Algorithms, Core Java, Multithreading, and Microservices. Certified in ServiceNow (CSA, CAD) and Azure Fundamentals, with a focus on building scalable, reliable, and high-performance systems. Open to backend engineering roles and eager to learn new technologies as per team or project needs.
+<p align="justify">
+Software Engineer with 2 years of experience in backend development and enterprise-scale systems at TCS. I specialize in building scalable, reliable, and high-performance backend solutions, with a proven track record of delivering workflow automation for Stellantis, impacting operations in 44+ European countries. My technical foundation includes Data Structures & Algorithms, Core Java, Multithreading, and Microservices. I am certified in ServiceNow (CSA, CAD) and Azure Fundamentals, and passionate about learning new technologies and solving complex problems in distributed systems.
+</p>
 
 ---
 
@@ -107,21 +113,21 @@ Software Engineer with 2 years of experience in backend development and enterpri
 
 ## 🏅 Certifications
 
-- **ServiceNow Certified Application Developer (CAD)**  
-  Certification No: 26777011 | Valid till Feb 2025
-- **ServiceNow Certified System Administrator (CSA)**  
-  Certification No: 26776982 | Valid till Feb 2025
-- **Microsoft Azure Fundamentals (AZ-900)**  
-  Certification No: 213E64-E4FB20 | Jun 2024
+- [**ServiceNow Certified Application Developer (CAD)**](https://drive.google.com/file/d/1eyj8NC_ZaOJkgLLgn0Pg_6RKGtYpXbNW/view)  
+  Certification No: 26777011
+- [**ServiceNow Certified System Administrator (CSA)**](https://drive.google.com/file/d/1QUIMcnDfsBSa5AbGNMt_O72H56oMoBfB/view)  
+  Certification No: 26776982
+- [**Microsoft Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/users/rajans2206/credentials/2874743f9d4c4542?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
+  Certification No: 213E64-E4FB20
 
 ---
 
 ## 📫 Contact
 
 - **Email:** [work.rajansingh@gmail.com](mailto:work.rajansingh@gmail.com) | [rajans2206@gmail.com](mailto:rajans2206@gmail.com)
-- **LinkedIn:** [Rajan Singh | LinkedIn](https://www.linkedin.com/in/rajan-singh-2206)
+- **LinkedIn:** [Rajan Singh | LinkedIn](https://www.linkedin.com/in/rajansinghdev/)
 - **Location:** Mumbai, MH, 400080
 
 ---
 
-*Let's connect and build scalable solutions together!*
+<p align="center"><em>Let's connect and build scalable solutions together!</em></p>
