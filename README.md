@@ -1,74 +1,127 @@
-### Hi there 👋
-
-<!--
-**rajansingh2206/rajansingh2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajansingh2206&show_icons=true&theme=radical) &nbsp;
+![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajansingh2206&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansingh2206&layout=compact)
-- 🔭 I’m Student
-- 🌱 I’m currently learning machine learning
-- 💬 Ask me about PHP,Java,JavaScript,python
-- 📫 How to reach me: rajans2206@gmail.com
 
-## 🛠️ My favorite tools
+# 👋 Hi, I'm Rajan Singh
 
-### 👨‍💻 Programming languages
+**Software Engineer | Backend & Distributed Systems | Java • Cloud • ServiceNow • Microservices | 2 YOE**
 
+---
+
+Software Engineer with 2 years of experience in backend development and enterprise-scale systems at TCS. Delivered workflow automation for Stellantis, impacting operations across 44 European countries. Strong foundation in Data Structures & Algorithms, Core Java, Multithreading, and Microservices. Certified in ServiceNow (CSA, CAD) and Azure Fundamentals, with a focus on building scalable, reliable, and high-performance systems. Open to backend engineering roles and eager to learn new technologies as per team or project needs.
+
+---
+
+## 💼 Work Experience
+
+**2023-08 – Present**  
+**Systems Engineer – TCS, Mumbai**
+
+**Project:** Invoice Litigation System (Enterprise rollout for Stellantis, 44 EU countries)
+
+- Improved supplier invoice processing speed by **40%** and reduced errors by **50%** by optimizing core backend logic in the APO module.
+- Designed and implemented robust automation workflows for invoice-PO matching, handling scenarios like currency mismatches, multi-line PO support, and quantity/price mismatches.
+- Built test data generation scripts (invoices & POs with exceptions) to accelerate QA/UAT cycles by **40%**.
+- Took end-to-end ownership of key functional units: exception-driven automation, rapid re-engineering for new integration requirements, and scenario-specific logic.
+- Partnered with business users across multiple regions to gather requirements and deliver customer-centric enhancements.
+- Collaborated on production deployments, ensuring high reliability with **<5% post-deployment defects**.
+- Demonstrated agility by quickly re-engineering solutions during SAP integrations, reducing dependency delays.
+- Supported weekend activities and extended hours to meet delivery timelines and unblock dependencies.
+- Directly supported prominent automotive brands like Fiat, Citroën, and Jeep, processing annual transactions worth €3.6B–€9.1B.
+
+---
+
+## 🏗️ Projects
+
+### Tweet Analysis _(2025)_  
+**Python**  
+- Developed an end-to-end Tweet analysis platform to extract, process, and visualize insights from Twitter data.
+- Implemented NLP techniques for sentiment analysis, keyword extraction, and engagement metrics.
+- Built scalable data pipelines and dashboards for real-time analytics.
+
+### Faculty Audit System _(May 2022)_  
+**Java, PHP, MySQL**  
+- Developed an audit management system for teacher audits and real-time reporting.
+- Handled complete lifecycle: design, coding, testing, deployment.
+- Recognized and copyrighted by the Government of India for innovation.
+  - Copyright Registration No: SW-15445/2022
+
+---
+
+## 🛠️ Skills
+
+### 👨‍💻 Programming Languages
 <p>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white&style=for-the-badge"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white&style=for-the-badge"/>
 </p>
 
-</p>
-
-### Frameworks and libraries
-
+### ⚙️ Backend, Frameworks & APIs
 <p>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-     <a href="#"><img alt="Nodejs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
-     <a href="#"><img alt="Expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge"/>
+  <img alt="REST API" src="https://img.shields.io/badge/REST-API-%23007ACC.svg?logo=cloud&logoColor=white&style=for-the-badge"/>
 </p>
 
-### Databases and cloud hosting
-
-
+### ☁️ Databases & Cloud
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23F00000.svg?logo=oracle&logoColor=white&style=for-the-badge"/>
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white&style=for-the-badge"/>
 </p>
 
-
-### Software and tools
-
+### 🚀 DevOps & Tools
 <p>
-     <a href="#"><img alt="Git" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-0078d7.svg?logo=anaconda&logoColor=white"></a>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
-    <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0078d7.svg?logo=cad&logoColor=white"></a>
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=for-the-badge"/>
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-%23007ACC.svg?logo=azuredevops&logoColor=white&style=for-the-badge"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white&style=for-the-badge"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"/>
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white&style=for-the-badge"/>
 </p>
 
+### 🟩 ServiceNow Platform
+<p>
+  <img alt="ServiceNow" src="https://img.shields.io/badge/ServiceNow-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
+  <img alt="Flow Designer" src="https://img.shields.io/badge/Flow%20Designer-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
+  <img alt="Business Rules" src="https://img.shields.io/badge/Business%20Rules-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
+  <img alt="Scoped Apps" src="https://img.shields.io/badge/Scoped%20Apps-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
+  <img alt="Update Set" src="https://img.shields.io/badge/Update%20Set-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
+  <img alt="GlideRecord" src="https://img.shields.io/badge/GlideRecord-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
+  <img alt="Script Include" src="https://img.shields.io/badge/Script%20Include-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
+  <img alt="Email Actions" src="https://img.shields.io/badge/Email%20Actions-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
+## 🎓 Education
+
+- **B.E In Computer Engineering**  
+  Ramrao Adik Institute Of Technology-Navi Mumbai (Nerul) | 2019–2023 | 82.41%
+- **HSC:** Vani Vidyalaya, Mumbai (Mulund) | 2017–2019 | 85.38%
+- **SSC:** Holy Angels’ High School, Mumbai (Mulund) | 2016–2017 | 91.40%
+
+---
+
+## 🏅 Certifications
+
+- **ServiceNow Certified Application Developer (CAD)**  
+  Certification No: 26777011 | Valid till Feb 2025
+- **ServiceNow Certified System Administrator (CSA)**  
+  Certification No: 26776982 | Valid till Feb 2025
+- **Microsoft Azure Fundamentals (AZ-900)**  
+  Certification No: 213E64-E4FB20 | Jun 2024
+
+---
+
+## 📫 Contact
+
+- **Email:** [work.rajansingh@gmail.com](mailto:work.rajansingh@gmail.com) | [rajans2206@gmail.com](mailto:rajans2206@gmail.com)
+- **LinkedIn:** [Rajan Singh | LinkedIn](https://www.linkedin.com/in/rajan-singh-2206)
+- **Location:** Mumbai, MH, 400080
+
+---
+
+*Let's connect and build scalable solutions together!*
