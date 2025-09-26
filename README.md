@@ -6,14 +6,49 @@
 </h1>
 
 <h2 align="center">
-  Software Engineer | Backend & Distributed Systems | Java • Cloud • ServiceNow • Microservices | 2 YOE
+  Software Engineer | Backend & Distributed Systems | Java • Python • Cloud • ServiceNow | 2+ YOE
 </h2>
 
 ---
 
 <p align="justify">
-Software Engineer with 2 years of experience in backend development and enterprise-scale systems at TCS. I specialize in building scalable, reliable, and high-performance backend solutions, with a proven track record of delivering workflow automation for Stellantis, impacting operations in 44+ European countries. My technical foundation includes Data Structures & Algorithms, Core Java, Multithreading, and Microservices. I am certified in ServiceNow (CSA, CAD) and Azure Fundamentals, and passionate about learning new technologies and solving complex problems in distributed systems.
+<b>Results-driven backend engineer</b> with 2+ years of experience at TCS, specializing in building scalable, resilient, and high-performance systems. Passionate about distributed systems, automation, and optimizing for reliability and speed. Proven track record delivering impact for enterprise clients across domains (Automotive, EdTech, SaaS).
 </p>
+
+---
+
+## 🏗️ Projects
+
+### Resume Genie _(Sep 2025)_
+**Technologies:** Python, spaCy, NLTK, Flask, Jinja2, MySQL  
+**Repo:** [ResumeGenie](https://github.com/rajansingh2206/ResumeGenie)  
+- Architected and led development of automated resume analysis and generation platform, leveraging NLP for key info extraction.
+- Features: Strength/weakness detection, ATS/job-fit scoring, customizable templates, PDF/Word export.
+- CLI and REST API for seamless integration.
+- Full SDLC ownership: design, implementation, CI/CD, deployment.
+
+### Student Information Management System (RESTful API) _(Sep 2025)_
+**Technologies:** Java, Spring Boot, Spring Data JPA, ModelMapper, MySQL  
+**Repo:** [REST_APIs](https://github.com/rajansingh2206/REST_APIs)  
+- Sole developer for robust API platform managing student records with full CRUD, DTOs, and object mapping.
+- Scalable backend design, service implementation, and RESTful API layer.
+- Impact: Used by academic institutions, streamlined student data management.
+- Automated API testing integrated in CI/CD pipeline.
+
+### Tweet Analysis _(Aug 2025)_
+**Technologies:** Python, NLP, Data Visualization  
+**Repo:** [Tweet_Analysis](https://github.com/rajansingh2206/Tweet_Analysis)  
+- Built scalable data pipelines for real-time Twitter sentiment and trend analytics.
+- Implemented advanced NLP (sentiment, keyword extraction, engagement metrics).
+- Impact: Analyzed 10,000+ tweets for social media research; used in academic presentations.
+- Open-source: [Issues & contributions](https://github.com/rajansingh2206/Tweet_Analysis/issues)
+
+### Faculty Audit System _(2022)_
+**Technologies:** Java, PHP, MySQL  
+**Repo:** [Faculty Audit System](https://github.com/rajansingh2206/Faculty-Audit-System)  
+- Developed audit management system for teacher audits and real-time reporting.
+- Improved audit reporting efficiency by 30%, deployed in academic institution.
+- Copyrighted by the Government of India (SW-15445/2022).
 
 ---
 
@@ -22,83 +57,45 @@ Software Engineer with 2 years of experience in backend development and enterpri
 **2023-08 – Present**  
 **Systems Engineer – TCS, Mumbai**
 
-**Project:** Invoice Litigation System (Enterprise rollout for Stellantis, 44 EU countries)
-
-- Improved supplier invoice processing speed by **40%** and reduced errors by **50%** by optimizing core backend logic in the APO module.
-- Designed and implemented robust automation workflows for invoice-PO matching, handling scenarios like currency mismatches, multi-line PO support, and quantity/price mismatches.
-- Built test data generation scripts (invoices & POs with exceptions) to accelerate QA/UAT cycles by **40%**.
-- Took end-to-end ownership of key functional units: exception-driven automation, rapid re-engineering for new integration requirements, and scenario-specific logic.
-- Partnered with business users across multiple regions to gather requirements and deliver customer-centric enhancements.
-- Collaborated on production deployments, ensuring high reliability with **<5% post-deployment defects**.
-- Demonstrated agility by quickly re-engineering solutions during SAP integrations, reducing dependency delays.
-- Supported weekend activities and extended hours to meet delivery timelines and unblock dependencies.
-- Directly supported prominent automotive brands like Fiat, Citroën, and Jeep, processing annual transactions worth €3.6B–€9.1B.
-
----
-
-## 🏗️ Projects
-
-### Tweet Analysis _(2025)_  
-**Python**  
-- Developed an end-to-end Tweet analysis platform to extract, process, and visualize insights from Twitter data.
-- Implemented NLP techniques for sentiment analysis, keyword extraction, and engagement metrics.
-- Built scalable data pipelines and dashboards for real-time analytics.
-
-### Faculty Audit System _(May 2022)_  
-**Java, PHP, MySQL**  
-- Developed an audit management system for teacher audits and real-time reporting.
-- Handled complete lifecycle: design, coding, testing, deployment.
-- Recognized and copyrighted by the Government of India for innovation.
-  - Copyright Registration No: SW-15445/2022
+**Invoice Litigation System (Enterprise rollout for Stellantis, 44 EU countries)**
+- Improved supplier invoice processing speed by **40%** and reduced errors by **50%** through backend optimization and automation.
+- Designed/implemented automation for invoice-PO matching (currency mismatches, multi-line PO, price/quantity exceptions).
+- Built test data generation scripts, accelerating QA/UAT by **40%**.
+- Led key functional units: exception-driven automation, rapid re-engineering for SAP integration, scenario-specific logic.
+- Delivered high reliability with **<5% post-deployment defects**; direct impact for Fiat, Citroën, Jeep (€3.6B–€9.1B transactions).
+- Partnered with cross-regional business users; supported weekend delivery to unblock dependencies.
 
 ---
 
 ## 🛠️ Skills
 
-### 👨‍💻 Programming Languages
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white&style=for-the-badge"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white&style=for-the-badge"/>
-</p>
-
-### ⚙️ Backend, Frameworks & APIs
-<p>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white&style=for-the-badge"/>
   <img alt="REST API" src="https://img.shields.io/badge/REST-API-%23007ACC.svg?logo=cloud&logoColor=white&style=for-the-badge"/>
-</p>
-
-### ☁️ Databases & Cloud
-<p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23F00000.svg?logo=oracle&logoColor=white&style=for-the-badge"/>
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white&style=for-the-badge"/>
-</p>
-
-### 🚀 DevOps & Tools
-<p>
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-%23007ACC.svg?logo=azuredevops&logoColor=white&style=for-the-badge"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white&style=for-the-badge"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"/>
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white&style=for-the-badge"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white&style=for-the-badge"/>
+  <img alt="ServiceNow" src="https://img.shields.io/badge/ServiceNow-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
 </p>
 
-### 🟩 ServiceNow Platform
-<p>
-  <img alt="ServiceNow" src="https://img.shields.io/badge/ServiceNow-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
-  <img alt="Flow Designer" src="https://img.shields.io/badge/Flow%20Designer-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
-  <img alt="Business Rules" src="https://img.shields.io/badge/Business%20Rules-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
-  <img alt="Scoped Apps" src="https://img.shields.io/badge/Scoped%20Apps-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
-  <img alt="Update Set" src="https://img.shields.io/badge/Update%20Set-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
-  <img alt="GlideRecord" src="https://img.shields.io/badge/GlideRecord-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
-  <img alt="Script Include" src="https://img.shields.io/badge/Script%20Include-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
-  <img alt="Email Actions" src="https://img.shields.io/badge/Email%20Actions-%2300A1E4.svg?logo=servicenow&logoColor=white&style=for-the-badge"/>
-</p>
+**Technical Skills:**  
+- Languages: Java, Python, JavaScript, PHP  
+- Frameworks: Spring Boot, Flask  
+- Databases: MySQL, Oracle  
+- Cloud/DevOps: Azure, Heroku, Git, Linux, CI/CD  
+- ServiceNow: Flow Designer, Business Rules, Scoped Apps  
+- Other: Exception Handling, Performance Optimization, Debugging, API & System Design
+
+---
+
+## 🎯 Interview Preparation
+
+- Active on [LeetCode](https://leetcode.com/u/rajans2206/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/rajans2206/) for data structures and algorithms practice.
+- Regularly solve system design problems (distributed caching, scalable microservices) and participate in mock interviews.
 
 ---
 
@@ -113,18 +110,15 @@ Software Engineer with 2 years of experience in backend development and enterpri
 
 ## 🏅 Certifications
 
-- [**ServiceNow Certified Application Developer (CAD)**](https://drive.google.com/file/d/1eyj8NC_ZaOJkgLLgn0Pg_6RKGtYpXbNW/view)  
-  Certification No: 26777011
-- [**ServiceNow Certified System Administrator (CSA)**](https://drive.google.com/file/d/1QUIMcnDfsBSa5AbGNMt_O72H56oMoBfB/view)  
-  Certification No: 26776982
-- [**Microsoft Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/users/rajans2206/credentials/2874743f9d4c4542?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
-  Certification No: 213E64-E4FB20
+- [ServiceNow Certified Application Developer (CAD)](https://drive.google.com/file/d/1eyj8NC_ZaOJkgLLgn0Pg_6RKGtYpXbNW/view)  
+- [ServiceNow Certified System Administrator (CSA)](https://drive.google.com/file/d/1QUIMcnDfsBSa5AbGNMt_O72H56oMoBfB/view)  
+- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/rajans2206/credentials/2874743f9d4c4542?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ---
 
 ## 📫 Contact
 
-- **Email:** [work.rajansingh@gmail.com](mailto:work.rajansingh@gmail.com) | [rajans2206@gmail.com](mailto:rajans2206@gmail.com)
+- **Email:** [work.rajansingh@gmail.com](mailto:work.rajansingh@gmail.com) | [rajans2206@gmail.com](mailto:rajansingh2206@gmail.com)
 - **LinkedIn:** [Rajan Singh | LinkedIn](https://www.linkedin.com/in/rajansinghdev/)
 - **Location:** Mumbai, MH, 400080
 
