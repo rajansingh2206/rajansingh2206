@@ -6,7 +6,7 @@
 </h1>
 
 <h2 align="center">
-  Software Engineer | Backend & Distributed Systems | Java • Python • Cloud • ServiceNow | 2+ YOE
+  Software Engineer | Backend & Distributed Systems | Java • Python • Cloud • ServiceNow | 3 YOE
 </h2>
 
 ---
